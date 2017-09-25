@@ -12,11 +12,12 @@ body {
 header {
 	background-color: #F79202;
 	padding: 20px;
-	font-family: 'Pacifico';
+	font-family: Pacifico;
 }
 
 h1 {
 	color:#ffffff;
+	
 }
 
 main {
